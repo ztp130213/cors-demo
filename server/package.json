@@ -1,0 +1,25 @@
+{
+  "name": "cors",
+  "version": "0.0.1",
+  "author": "ztp",
+  "description": "I don't kwnow",
+  "keywords": [
+    "node.js",
+    "javascript"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://path/to/url"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": "0.10.x"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "request": "^2.79.0"
+  },
+  "devDependencies": {}
+}
