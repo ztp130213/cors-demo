@@ -32,4 +32,4 @@ node app.js
 #### cors with nginx
 浏览器里访问 127.0.0.1:7999/cors_nginx.html或者localhost:7999/cors_nginx.html
 
-这个demo演示在代码里本身不支持cors，通过配置nginx支持多域名，cookie和Authorization
+这个demo演示在后端代码里本身不支持cors，通过配置nginx支持多域名，cookie和Authorization
